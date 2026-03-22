@@ -34,6 +34,14 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
+   
+<img width="1378" height="873" alt="Screenshot 2026-02-11 110514" src="https://github.com/user-attachments/assets/a7878af0-75da-4579-9c3d-61f48274acf4" />
+
+<img width="1375" height="874" alt="Screenshot 2026-02-11 113754" src="https://github.com/user-attachments/assets/25ba11be-afc3-43a3-baca-c832aa498a37" />
+
+[exp 4.pdf](https://github.com/user-attachments/files/26165421/exp.4.pdf)
+
+
 
 RESULT:
 
